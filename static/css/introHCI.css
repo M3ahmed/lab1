@@ -9,6 +9,10 @@
 	color: #CC00AA;
 }
 
+.project-class-selector img{
+     margin: 20px;
+}
+
 img .thumbnail {
      width: 50px;
      height: 100px;
